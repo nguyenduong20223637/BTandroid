@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "301285462740",
+    "project_id": "ktraandroid-b87e1",
+    "storage_bucket": "ktraandroid-b87e1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:301285462740:android:01008cbe0d1ac46d356141",
+        "android_client_info": {
+          "package_name": "com.example.btktra"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_aKvBr8CTiLqcjPS6UAW6YPNpzK5ZK7w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
